@@ -1,3 +1,15 @@
+# Capture
+
+## ログイン画面
+<img width="1440" alt="スクリーンショット 2025-03-01 10 23 35" src="https://github.com/user-attachments/assets/3d61b2b8-b669-499f-b613-26d4c9962a9d" />
+
+## ユーザ一覧画面(スマホサイズ)
+<img width="557" alt="スクリーンショット 2025-03-01 10 25 21" src="https://github.com/user-attachments/assets/2b9f3a31-cf65-445b-8da5-5d11bfc9f662" />
+
+## ユーザ詳細画面(モーダル)
+<img width="1358" alt="スクリーンショット 2025-03-01 10 26 43" src="https://github.com/user-attachments/assets/98373e09-1374-45c9-9644-6b1f0f0f9178" />
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
